@@ -1,0 +1,421 @@
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.logo{
+    max-width: 50%; max-height: 50%;
+    position: relative;
+    top: -13px;
+}
+.dropdown:hover>.dropdown-menu{display: block; padding:0px; margin:0px}
+.dropdown-item:hover{
+    background-color: #20AFE3;
+}
+.dropdown-menu{
+    background-color: #EBEBEB;
+}
+.dropdown-item{
+    font-size: 13px!important;
+}
+
+#topIconArea{
+    background-color:#555555;
+    overflow: hidden;
+}
+
+#topIconArea  a {
+    display: block;
+    float: right;
+    text-decoration: none;
+}
+#topIconArea  a:first-child{
+    background-color: #20AFE3;
+    color:white;
+    transition: 0.3s all;
+    padding: 6px 14px;
+    font-size: 10px;
+    text-align: center;
+    vertical-align: text-top;
+    line-height: 1;
+    font-weight: 600;
+    z-index: 1000;
+}
+#topIconArea  a:first-child img{
+    width: 25px;
+}
+#topIconArea  a:first-child div{
+    display: inline-block;
+    height: 100%;
+}
+
+#topIconArea a i{
+    color: white;
+    padding: 10px;
+}
+
+#navigationArea{background-color: #ffffff;}
+#navigationArea .container .navbar{ background-color: white; margin: 5px 0;}
+#navigationArea .container .navbar-collapse a{ font-size: 18px; color:#666; padding:10px 13px 20px; transition:1s;border-bottom: transparent 5px solid;}
+#navigationArea .container .navbar-collapse a:hover{ border-bottom: 5px solid #20AFE3;}
+.custom-active{ border-bottom: 5px solid #20AFE3!important;}
+
+
+/* sliderArea */
+.carousel-item img{
+    max-height: 400px;
+}
+
+.carousel-inner {
+    overflow: visible;
+}
+#navigationArea .container .navbar {
+    z-index: 10;
+}
+.navbar-brand{
+    display: inline;
+}
+.carousel-control-prev-icon{
+    height: 35px;
+    width: 35px;
+}
+.carousel-control-next-icon{
+    height: 35px;
+    width: 35px;
+}
+.carousel-control-next{
+    width: 5%;
+}
+.carousel-control-prev{
+    width: 5%;
+}
+.transparentDiv{
+    width: 100%;
+    position:absolute;
+    left:0;
+    bottom:0;
+    padding:20px;
+    background-color: rgba(0, 0, 0, .6);
+}
+.transparentDiv h1{font-family: 'Roboto Slab', serif; font-size: 22px; text-align: right; font-weight: 700px;}
+.transparentDiv p{ font-size: 16px; padding: 0; text-align: left;}
+.sliderlearnMore{border-radius: 5px; border:1px solid whie; background-color: transparent;
+    padding: 5px 15px; color:white; transition:1s}
+.sliderlearnMore:hover{ background-color: white; color: #20AFE3; border: 2px solid  #20AFE3 }
+/* SliderArea */
+
+
+/* Help client Area */
+#helpClientArea{text-align: center;}
+#helpClientArea .container{padding: 40px 80px;}
+#helpClientArea .container h1{
+    margin:0 0 40px; font-size: 36px;
+    color: #5e5e5e;
+    text-align: center;
+    line-height: 1.2;
+    font-weight: 700;
+}
+#helpClientArea .container p{
+    font-size: 18px;
+    color: #5e5e5e;
+    text-align: center;
+    line-height: 1.3;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+/* Help client Area */
+
+/* Our Project Area */
+#ourProjectArea{background-color: #F5F5F5; padding: 20px 0}
+#ourProjectArea img{width:100%; height:130px;margin: 15px; transition: 1s;}
+#ourProjectArea .overlay{ position: absolute; width:87%; height:130px;margin: 15px; z-index: 10; top:0; bottom:0;
+    background-color:#20AFE3;opacity: 0; transition: 1s;  cursor:pointer;}
+#ourProjectArea .overlayParent{transition: 1s;}
+#ourProjectArea .overlayParent:hover .overlay{ transition: 1s;opacity:1; color:white;}
+.textOurProject {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+.ourprojects {
+    color: #5e5e5e;
+    font-size: 32px;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 10px;
+    font-weight: 700;
+}
+.ourprojects span{
+    border-bottom: 5px solid  #20AFE3;
+}
+.ourprojectsp{
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #5e5e5e;
+    margin-top: 15px;
+}
+.marginleft{
+    margin-left: 15px;
+}
+.OurProjectsDiv button{
+    margin-top: 21px;
+    background-color: #20AFE3;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.OurProjectsDiv button:hover{
+    background-color: white;
+    border: 1px solid #20AFE3;
+    color: #20AFE3;
+}
+.OurProjectsDiv p{
+    font-size: 15px;
+}
+.OurProjectsDiv p span{ color:#20AFE3;cursor: pointer}
+/* Our Project Area */
+
+
+/* Help client Area */
+#ourServicesArea{background-color: #FFFFFF; padding: 40px 0}
+#ourServicesArea img{width:100%; height:130px;margin: 15px; transition: 1s;}
+#ourServicesArea .overlay{ position: absolute; width:85%; height:130px;margin: 15px; z-index: 10; top:0; bottom:0;
+    background-color:black;opacity: 0; transition: 1s;}
+#ourServicesArea .overlayParent{transition: 1s;}
+#ourServicesArea .overlayParent:hover .overlay{ transition: 1s;opacity:.5; color:white; cursor: pointer;}
+.text {
+    color: white;
+    background-color: #20AFE3;
+    padding:10px;
+    font-size: 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    opacity: 1;
+    line-height: 1.2;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: left;
+    z-index: 20;
+}
+#ourServicesArea h3{
+    font-size: 32px;
+    font-family: 'Roboto Slab',serif;
+    font-weight: 700;
+    margin: 15px;
+    color: #333;
+    line-height: 30px;
+}
+#ourServicesArea h3:after {
+    content: '';
+    width: 55px;
+    height: 4px;
+    display: block;
+    background-color: #20AFE3;
+;
+    margin-top: 14px;
+}
+/* Help client Area */
+
+
+/* Help client Area */
+/* Help client Area */
+
+/* Footer Area */
+#footerArea a img{ max-width: 150px;max-height: 80px;}
+#footerArea {border-top: 2px solid #333333; padding: 80px 0}
+#footerArea .container a{ color: #666; font-size:14px; text-decoration:none}
+#footerArea .container i { padding : 5px}
+/* Footer Area*/
+
+
+
+/*Template*/
+#templateBannerArea img{
+    max-height: 225px;
+    width: 100%
+}
+
+#templateBannerArea{position: relative}
+#templateBannerArea .container{ position: absolute; top: 0; left:0}
+#templateBannerArea h1{
+    color: #fff;
+    text-shadow: 2px 1px 1px #000;
+    font-weight: 700;
+    font-size: 48px;
+    margin: 0 0 40px;
+    padding: 0;
+    line-height: 1;
+    margin-left: 12%;
+    margin-top: 4%;
+}
+
+.templateBodyArea h1{
+    margin-left: 4%;
+    margin-top: 4%;
+    font-weight: 700;
+    font-size: 32px;
+    padding: 0;
+    color: #20AFE3;
+    line-height: 1;
+}
+.templateBodyArea p{
+    font-family: 'Roboto Condensed',sans-serif;
+    margin-left: 4%;
+    margin-top:15px;
+    color: #333;
+    line-height: 1.42857143;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+
+.featuredProjectArea{
+    margin-bottom: 80px;
+}
+.featuredProjectArea .col-md-3{
+    margin-bottom: 20px;
+}
+.featuredProjectArea h1{
+    margin-left:4%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom:40px;
+    margin-top:60px
+}
+.featuredProjectArea .featuredImages{
+    margin-left:2%;
+}
+
+
+
+/* slide image area*/
+.imageTemplate{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.containerImage {
+    position: relative;
+    max-height: 112px;
+    overflow: hidden;
+}
+.overlayTemplate {
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    right: 0;
+    background-color: rgb(59, 54, 54);
+    opacity: 0.8;;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+
+.col-md-3:hover .overlayTemplate {
+    width: 100%;
+    left: 0;
+    cursor: pointer;
+}
+
+.textTemplate {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+}
+/* slide immage area*/
+
+/*contact us */
+input[type=text], input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.containerContact {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+/*contact us */
+
+.templateBodyArea{
+    padding: 20px;
+}
+
+#back2Top {
+    width: 40px;
+    line-height: 40px;
+    overflow: hidden;
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+    -moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    position: fixed;
+    bottom: 50px;
+    right: 0;
+    background-color: #DDD;
+    color: #555;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+#back2Top:hover {
+    background-color: #DDF;
+    color: #000;
+}
+.productPage h1{
+	text-align:center;
+}
+.productPage ol li{
+	padding: 20px;
+}
+.productPage ol li a{
+	display:block;
+	
+	padding-bottom: 10px;
+}
