@@ -412,10 +412,13 @@ input[type=submit]:hover {
 	text-align:center;
 }
 .productPage ol li{
-	padding: 20px;
+	padding: 10px;
 }
 .productPage ol li a{
 	display:block;
-	
-	padding-bottom: 10px;
+	padding-bottom: 25px;
+}
+.productPage ol li{
+	border: 1px solid grey;
+	background-color: #EEE;
 }
