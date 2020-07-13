@@ -447,9 +447,412 @@ which allows
             </div>
             <div class="col-md-4">
                 <h1>Blauberg</h1>
+                <ol>
+                    <li>
+                        <h4>Fire Damper</h4>
+                        <h5>BSK
+Fire-resisting damper</h5>
+                        <h6>• A fire safety damper prevents the spread
+of smoke and fire via ventilation and air
+conditioning system ducts in the event
+of fire.
+• Such units are installed in air ducts
+located in fire-separation walls and
+ceilings. The fire resistance rating
+according to EN 1366-2 is EIS 60 or EIS 120</h6>
+                        <a target="_blank" href="{{asset('Product/Blauberg\Fire Damper/Fire-resisting damper BSK Series.pdf')}}">Click here for the pdf</a>
+                        <h5>RSKE / RSKM
+Multi-purpose fire safety smoke dampers</h5>
+                        <h6>• The dampers are intended for integration
+into smoke control systems of buildings
+and structures of various purpose and
+designed for extraction of combustion
+products from the spaces of floor
+corridors, hallways, air locks etc.
+•The dampers can be used as smoke
+dampers in emergency smoke exhaust
+ventilation systems in the event of a fire
+to support evacuation of people from the
+building at the initial phase of the fire
+occurring in any of the building spaces.
+•The RSKE/RSKM multi-purpose fire safety
+smoke dampers are rated to resist fire for
+180 minutes (E 180) at the temperature
+of 600 °C.</h6>
+                        <a target="_blank" href="{{asset('Product/Blauberg\Fire Damper/Multi-purpose fire safety smoke dampers.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>Heat Recovary Unit for Single Room Ventilation</h4>
+                        <h5>VENTO EXPERT A30 S10 W V.2</h5>
+                        <h6>•Arrangement of efficient energy-saving
+supply and exhaust single-room ventiÅí³ÓÌ³ÌĕíæϚ°Óòæ æϚÓíí« æϚæÓ³ÅÌ
+commercial premises.
+•Reducing heat losses caused by ventilation
+due to heat recovery.
+•Humidity balance and regulated air
+exchange create individually controlled
+microclimate.
+•t³Є%³ ÓËËòÌ³í³ÓÌ  íþ  Ì æ ý âÅ
+single-room ventilation units for coordinated operation.
+•Controlled by Android or iOS smartphone
+or tablet</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Heat Recovary Unit for Single Room Ventilation/HEAT RECOVERY VENTO EXPERT A30 S10 W V.2 SINGLE-ROOM UNITS.pdf')}}">Click here for the pdf</a>
+                        <h5>CIVIC EC DB</h5>
+                        <h6>
+                        •The CIVIC EC DB units are designed for singleroom ventilation of schools, offices and
+other public and commercial premises.
+Offer the ideal simple and efficient ventilation solutions for existing and renovated
+buildings and require no layout of air ducts.
+•Efficient supply and extract ventilation for
+separate premises.
+•EC motors with low energy consumption.
+•Low-noise operation.
+•Simple mounting</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Heat Recovary Unit for Single Room Ventilation/Single  Room Air Handling unit Civic EC LB.pdf')}}">Click here for the pdf</a>
+                    
+                        <h5>FRESHBOX 100 WIFI</h5>
+                        <h6>
+                        •Efficient solution for supply and exhaust ventilation of
+enclosed spaces.
+•Electric preheater or reheater modification available for
+cold climate conditions.
+•Heat exchanger with an enthalpy membrane modification
+available for humid and hot climate conditions.
+Low-energy EC motors.
+•Silent operation.
+•Supply air purification ensured by two built-in G4 and F8 filters
+(optionally H13 filter, F8 Carbon).
+•Upgradeable with an exhaust duct to provide air extraction
+from the bathroom.
+•Easy installation.
+•Compact size.
+•Wi-Fi communication
+•Controlled by Android or iOS smartphone or tablet over Wi-Fi.</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Heat Recovary Unit for Single Room Ventilation/SINGLE-ROOM AIR HANDLING UNITS Fresh Box.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>Industrial Fan</h4>
+                        <h5>Axial Fan</h5>
+                        <h6>
+                        Axis-F
+Axial inline fans.<br>
+•Supply and extract ventilation systems
+installed in various premises.
+•Ideal solution for boosting large air
+volumes at low aerodynamic resistance in
+the ventilation system.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Axial Fan/Axial inline fans.pdf')}}">Click here for the pdf</a>
+
+                        <h5>Axis-FP
+Axial smoke extraction fan</h5>
+                        <h6>
+                        •The fans are used for extraction of smoke in case
+of fire and removal of hot air outside. The fans are
+also used for general ventilation systems.
+•The fans are rated for permanent operation at
+ambient air temperatures from -60 °C up to +50 °C
+(depends on climatic category, see the Designation
+key). The fans are able to operate 2 hours at the
+temperatures +200 °C, +300 °C and +400 °C..
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Axial Fan/Axial smoke extraction fan.pdf')}}">Click here for the pdf</a>
+                        <h5>Axis-Q</h5>
+                        <h6>
+                        •Supply and extract ventilation systems
+installed in various premises.
+•Ideal solution for boosting large air
+volumes at low aerodynamic resistance
+in the ventilation system.
+•Refrigerating technologies for cooling of
+compressor condensing units.
+•Direct air extract.
+•For positive pressure ventilation in firefighting systems.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Axial Fan/Axial wall fans.pdf')}}">Click here for the pdf</a>
+                        <h5>Primo
+Inline mixed flow fans with AC and EC motors</h5>
+                        <h6>
+                        •Inline fans for supply and exhaust ventilation of various commercial and industrial
+premises requiring powerful air flow.
+•The fans are compatible with ∅ 355 and
+400 mm air ducts.
+•Combines wide capabilities and high performance features of axial and centrifugal
+fans, providing powerful air flow
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Axial Fan/Inline mixed flow fans with AC and EC motors.pdf')}}">Click here for the pdf</a>
+                        <h5>Turbo
+Inline mixed-flow fans</h5>
+                        <h6>
+                        •Supply and extract ventilation systems
+installed in various premises.
+•Mounting in kitchens, bathrooms and
+other humid premises.
+•Ventilation air ducts requiring high
+pressure, powerful air flow and low noise
+level.
+•Compatible with Ø 100 up to 315 mm
+round air ducts. 
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Axial Fan/Inline mixed-flow fans.pdf')}}">Click here for the pdf</a>
+                        <h5>Axis-P
+Medium pressure axial fans</h5>
+                        <h6>
+                        The fans are used:
+                        •as a part of a smoke extraction system for air
+pressurization to create a positive air pressure
+differential in stairway enclosures, airlock
+vestibules and lift shafts, to prevent spreading
+of smoke in premises, protect people using
+evacuation routes from fire hazards and enable
+conditions for fire-extinguishing measures.
+•in general ventilation systems in industrial,
+administrative and residential buildings
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Axial Fan/Medium pressure axial fans.pdf')}}">Click here for the pdf</a>
+
+                        <h4>centrifugal Fan</h4>
+                        <h5>
+Helix</h5>
+                        <h6>
+                        Supply and exhaust ventilation systems installed in various premises.
+Suitable for use as ventilation or air conditioning system components.
+Compatible with round and rectangular air ducts.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Centrifugal fans Helix.pdf')}}">Click here for the pdf</a>
+                        
+                        <h5>Centrifugal fans
+S-Vent</h5>
+                        <h6>
+                         Use
+ Exhaust ventilation systems installed in various premises.
+ Suitable for use as a component of an assembled air handling or conditioning unit.
+ Compatible with Ø 140 up to 500 mm round air ducts or 125x125 up to 800x800 mm rectangular air ducts.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Centrifugal fans S-Vent.pdf')}}">Click here for the pdf</a>
+                        
+                        <h5>
+                        Extero
+Exhaust centrifugal fans</h5>
+                        <h6>
+                        Extract ventilation systems installed in
+various premises.
+External wall mounting from outside.
+Compatible with Ø100 up to 200 mm
+round air ducts. 
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Exhaust centrifugal fans.pdf')}}">Click here for the pdf</a>
+                       
+                        <h5>
+                        Inline centrifugal fan Box Type</h5>
+                        <h6>
+                        The unit is designed for indoor application with the ambient temperature ranging from 0 °C up +45 °C and relative humidity
+up to 80 %.
+The unit is rated as a Class I electrical appliance. Hazardous parts access and water ingress protection rating: IP22 for the assembled
+unit connected to the air ducts and IP44 for the unit motors.
+The unit design is constantly being improved, thus some models may be slightly different from those described in this manual.
+
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Inline centrifugal fan_Box_Type.pdf')}}">Click here for the pdf</a>
+                        <h5>
+                        Centro (V2)
+Inline centrifugal fans</h5>
+                        <h6>
+                        Supply and extract ventilation systems
+installed in various premises.
+Mounting in kitchens, bathrooms and
+other humid premises.
+Compatible with Ø 100 up to 315 mm
+round air ducts.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Inline centrifugal fans.pdf')}}">Click here for the pdf</a>
+                        
+                        <h5>
+                        Tower-V EC
+Roof centrifugal fans with EC motor
+                        </h5>
+                        <h6>
+                        Supply and exhaust ventilation systems installed in various premises.
+Suitable for use as ventilation or air conditioning system components.
+Compatible with round and rectangular air ducts.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Roof centrifugal fans with EC motor.pdf')}}">Click here for the pdf</a>
+                        
+                        <h5>
+                        Tower-SV / Tower-SH
+Roof-mounted centrifugal smoke exhaust fans
+                        </h5>
+                        <h6>
+                        Smoke exhaust fans are used in
+emergency exhaust ventilation systems
+for forced extraction of smoke and
+heated gases and simultaneous transfer
+of heat away and beyond the limits of the
+serviced spaces in case of fire.
+Such units are used in production, public,
+residential, administrative and other
+spaces.
+                        
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Roof-mounted centrifugal smoke exhaust fans.pdf')}}">Click here for the pdf</a>
+                        
+                        <h5>
+                        Iso-Mix
+Sound-insulated inline mixed-flow fans</h5>
+                        <h6>
+                        Supply and extract ventilation systems
+installed in various premises with high
+requirements to the noise level.
+For ventilation air ducts requiring high
+pressure, powerful air flow and low noise
+level.
+Compatible with Ø100 up to Ø 315 mm
+air ducts.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Industrial Fan\Centrifugal Fan/Sound-insulated inline mixed-flow fans.pdf')}}">Click here for the pdf</a>
+
+                    </li>
+                    <li>
+                        <h4>Underground Ventilation</h4>
+                        <h5>IMPULSE CENTRIFUGAL FANS</h5>
+                        <h6>Centro-Jet casing is made of polymer coated steel.
+Due to low height of the casing the fan is recommended for use
+in low-ceilinged room.
+The protecting grille on the intake side prevents ingress
+of foreign objects into the fan.
+Deflector plates on the exhaust side of the fan ensure correct
+air flow distribution.</h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Underground Ventilation/IMPULSE CENTRIFUGAL FANS.pdf')}}">Click here for the pdf</a>
+
+                        <h5>JET AXIAL FANS</h5>
+                        <h6>Axis-Jet casing has a tubular shape and is made of polymer coated
+steel. The fan has a sound insulation of mineral wool. The casing
+includes inner brackets for motor fixation. These brackets act as
+directing vanes and distribute air flow uniformly, thus increasing
+aerodynamic performances of the fan. </h6>
+                        <a target="_blank" href="{{asset('Product\Blauberg\Underground Ventilation/JET AXIAL FANS.pdf')}}">Click here for the pdf</a>
+                    </li>
+                </ol>
             </div>
             <div class="col-md-4">
                 <h1>Calrffi</h1>
+                <ol>
+                    <li>
+                        <h4>Air & Dirt Separator</h4>
+                        <h5>DISCAL ® deaerator-dirt separator
+DISCAL
+546 - 5461 series</h5>
+                        <h6>Deaerators-dirt separators are used to continuously eliminate the
+air and dirt contained in the hydraulic circuits of heating and
+cooling systems. They are capable of automatically removing all
+the air present in the system down to micro-bubble level. At the
+same time they separate dirt and impurities contained in the water
+within the circuit and collect them in the lower part of the valve
+body, from which they may be expelled</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\Air & Dirt Separator/deaerator Air-Dirt separator Series.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>Air Vent</h4>
+                        <h5>Automatic air vents
+MINICAL® – VALCAL®
+5020 - 5021 - 5022 series
+</h5>
+                        <h6>Automatic air vents perform the function of eliminating the air which
+builds up inside climate control system circuits without any manual
+intervention. This prevents the appearance of negative phenomena
+that might prejudice the working life and performance of the heating
+system, such as:
+- corrosion caused by oxygen;
+- localised air pockets in the radiators;
+- cavitation in the circulation pumps.</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\Air Vent/Automatic air vents Series.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>Balancing Valve</h4>
+                        <h5>130 series</h5>
+                        <h6>Balancing valves are hydraulic devices used for accurately regulating
+the flow rate of the thermal medium supplying the terminal emitters
+of a system.
+Correct balancing of the hydraulic circuits is essential to guarantee
+system operation according to design specifications, high thermal
+comfort and low energy consumption.</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\Balancing Valve/Balancing valves Series.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>Ball valve with check valave</h4>
+                        <h5>Ball valves
+with built-in check valve
+3230 - 332 - 333 - 334 - 327 series</h5>
+                        <h6>The ball valves with built-in check valve BALLSTOP combine two
+devices in a single body: a ball shut-off valve and a check valve
+housed inside the ball itself. This dual function allows for quicker
+installation and a more compact device, which means less space
+required on the pipe.
+BALLSTOP valves are available in two versions for two different uses:
+the version with black plastic external ring for use in domestic water
+systems and the version with red external ring for heating systems.
+</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\Ball valve with check valave/Ball valves Series.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>HVAC Terminls</h4>
+                        <h5>Connection and adjustment group
+for HVAC terminal units</h5>
+                        <h6>The pre-assembled group for terminal units is compact and able to
+shut-off, adjust and filter the secondary circuit of the terminal unit.
+Moreover, it allows for carrying out the system maintenance and
+calibration operations.
+It allows the connection of fan coils, cold beams or ceiling conditioning
+systems with the main distribution network.
+Complete with insulation suitable for both heating and cooling.
+Available with Venturi device for flow rate measurement</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\HVAC Terminls/Connection and adjustment group for HVAC Terminals.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>Mixing Valve</h4>
+                        <h5>Anti-scale adjustable thermostatic
+mixing valves</h5>
+                        <h6>The thermostatic mixing valve is used in systems that produce
+domestic hot water.
+It is designed to maintain the preset temperature of the mixed water
+delivered to the user outlet, when there are variations in the
+temperature and pressure of the hot and cold water at the inlet, or
+in the drawn-off flow rate.
+These devices are also available with fittings complete with
+strainers and check valves on the hot and cold water inlets.</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\Mixing Valve/Anti-scale adjustable thermostatic mixing valve.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>PCIV</h4>
+                        <h5>PICV Flowmatic</h5>
+                        <h6>Pressure independent control valve
+(PICV) FLOWMATIC®. The pressure independent control valve is a device composed of an
+automatic flow rate regulator and a control valve with actuator.
+The device can adjust flow rate and keep it constant in the presence
+of changing differential pressure conditions of the circuit in which it is
+installed</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\PICV\PICV Flowmatic/Pressure independent control valve.pdf')}}">Click here for the pdf</a>
+                        
+                        <h5>PICV Flung Type</h5>
+                        <h6>Pressure independent control valve (PICV). 146 series</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\PICV\PICV Flung Type/Pressure independent control valve-Flung Type.pdf')}}">Click here for the pdf</a>
+                    </li>
+                    <li>
+                        <h4>PRV</h4>
+                        <h5>Pre-adjustable pressure reducing valves
+with self-contained cartridge</h5>
+                        <h6>Pressure reducing valves are devices which, when installed on
+private water systems, reduce and stabilise the pressure of the
+water entering from the public network. This inlet pressure, in
+general, is too high and variable to be applied directly to domestic
+systems.
+This series of pressure reducing valves have the feature to be preadjustable. The pressure reducing valve can be set to the desired
+pressure value before installation, using an adjustment knob with a
+pressure setting indicator. After installation, the system pressure
+will automatically adjust itself to the set value</h6>
+                        <a target="_blank" href="{{asset('Product\Calrffi\PRV/Pre-adjustable pressure reducing valves.pdf')}}">Click here for the pdf</a>
+                    </li>
+                </ol>
             </div>
         </div>
     </div>
