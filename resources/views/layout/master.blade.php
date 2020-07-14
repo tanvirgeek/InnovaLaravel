@@ -24,8 +24,7 @@
         <div class="container">
             <a href="">
                 <img src="{{asset('images/book.png')}}" alt="">
-                <div>Custom Brochure</div>
-                <span>0</span>
+                <div>Products PDF</div>
             </a>
             <a href="https://www.facebook.com/innovamep/" target="_blank">
                 <i class="fab fa-facebook-f"></i>
@@ -117,7 +116,7 @@
                 </div>
                 <div class="col-md-3">
                     <h6>Follow Us</h6>
-                    <a href="www.google.com" target="_blank">
+                    <a href="https://www.facebook.com/innovamep" target="_blank">
                         <i class="fab fa-facebook-f"></i>
                     </a>
                     <a href="www.google.com" target="_blank">
@@ -133,38 +132,38 @@
             </div>
         </div>
     </div>
-    <!--End of footerArea-->
+    
 
 
     <!-- Optional JavaScript --><!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"> </script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-    <script>
-        jQuery(function ($) {
-            $('.navbar .dropdown').hover(function () {
-                $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
+    <a id="back2Top" title="Back to top" href="#" style="color:#20AFE3; background-color:black">&#10148;</a>
 
-            }, function () {
-                $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
 
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script>
+            jQuery(function ($) {
+                $('.navbar .dropdown').hover(function () {
+                    $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
+
+                }, function () {
+                    $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
+
+                });
+
+                $('.navbar .dropdown > a').click(function () {
+                    location.href = this.href;
+                });
             });
-
-            $('.navbar .dropdown > a').click(function () {
-                location.href = this.href;
-            });
+        </script>
+        <script src="{{asset('js/scroll.js')}}"></script>
 
 
-            //contact page mail sending process
-            $('#loading').hide();
+    </body>
 
-            $('#sendEmail').click(function () {
-                $('#loading').show();
-            });
-
-        });
-    </script>
-
-</body>
 </html>
+<!--End of footerArea-->

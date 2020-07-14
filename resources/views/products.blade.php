@@ -10,7 +10,7 @@
 
     </div>
     <div class="container">
-        <h1 class="container">Products</h1>
+        <h1 class="container">Our Products</h1>
 
     </div>
 
