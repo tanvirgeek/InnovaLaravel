@@ -8,12 +8,13 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}"/>
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}" />
     <script src="https://kit.fontawesome.com/cd788f68fb.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{asset('css/styles.css')}}"/>
-    <link rel="stylesheet" href="{{asset('css/template.css')}}"/>
+    <link rel="stylesheet" href="{{asset('css/styles.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/template.css')}}" />
+    <link rel="icon" type="image/png" href="{{asset('images/favicon.png')}}" />
     <title>Innova & MEP</title>
 </head>
 
@@ -22,19 +23,17 @@
     <!--Icons-->
     <div id="topIconArea">
         <div class="container">
-            <a href="">
+            <a href="{{route('products')}}">
                 <img src="{{asset('images/book.png')}}" alt="">
                 <div>Products PDF</div>
             </a>
             <a href="https://www.facebook.com/innovamep/" target="_blank">
                 <i class="fab fa-facebook-f"></i>
             </a>
-            <a href="" target="_blank">
-                <i class="fab fa-twitter"></i>
+            <a href="https://www.linkedin.com/company/innova-and-mep-engineers-limited" target="_blank">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
             </a>
-            <a href="" target="_blank">
-                <i class="fab fa-instagram"></i>
-            </a>
+
         </div>
     </div>
     <!--End Icons-->
@@ -111,19 +110,16 @@
                     <a href="{{route('home')}}"><img src="{{asset('images/logo.png')}}" alt="Logo" class="img-fluid"></a>
                 </div>
                 <div class="col-md-3 border-right">
-                    <a href="{{route('contact')}}">Contuct Us</a><br/>
-                    <a href="{{route('about')}}">About Us</a><br/>
+                    <a href="{{route('contact')}}">Contuct Us</a><br />
+                    <a href="{{route('about')}}">About Us</a><br />
                 </div>
                 <div class="col-md-3">
                     <h6>Follow Us</h6>
                     <a href="https://www.facebook.com/innovamep" target="_blank">
                         <i class="fab fa-facebook-f"></i>
                     </a>
-                    <a href="www.google.com" target="_blank">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a href="www.google.com" target="_blank">
-                        <i class="fab fa-instagram"></i>
+                    <a href="https://www.linkedin.com/company/innova-and-mep-engineers-limited" target="_blank">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
                     </a>
                 </div>
                 <div class="col-md-3">
@@ -132,38 +128,39 @@
             </div>
         </div>
     </div>
-    
 
 
-    <!-- Optional JavaScript --><!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
     <a id="back2Top" title="Back to top" href="#" style="color:#20AFE3; background-color:black">&#10148;</a>
 
 
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-        <script>
-            jQuery(function ($) {
-                $('.navbar .dropdown').hover(function () {
-                    $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script>
+        jQuery(function($) {
+            $('.navbar .dropdown').hover(function() {
+                $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
 
-                }, function () {
-                    $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
+            }, function() {
+                $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
 
-                });
-
-                $('.navbar .dropdown > a').click(function () {
-                    location.href = this.href;
-                });
             });
-        </script>
-        <script src="{{asset('js/scroll.js')}}"></script>
+
+            $('.navbar .dropdown > a').click(function() {
+                location.href = this.href;
+            });
+        });
+    </script>
+    <script src="{{asset('js/scroll.js')}}"></script>
 
 
-    </body>
+</body>
 
 </html>
 <!--End of footerArea-->

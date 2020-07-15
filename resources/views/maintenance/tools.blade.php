@@ -41,9 +41,13 @@
     </div>
     <!-- End of Template Body Area-->
 
+    <div class="container">
+        <h1 style="text-align:center">Get Man power and Tools PDF below:</h1>
+    </div>
     {{--Tools Pdf Files--}}
     @if(isset($pdfs) and count($pdfs) > 0)
         <div class="container">
+            
             <div class="row ml-4">
                 @if(isset($pdfs[0]))
                     <div class="col-md-6 col-sm-12 col-12 text-center">

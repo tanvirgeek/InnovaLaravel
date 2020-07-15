@@ -39,6 +39,7 @@
 
 
     <!-- Featured Project Area-->
+    <!-- 
     <div class="featuredProjectArea">
         <div class="container">
             <h1>Featured Projects</h1>
@@ -78,5 +79,6 @@
             </div>
         </div>
     </div>
-    <!-- End of Featured Project Area-->
+    <!-- End of Featured Project Area -->
+
 @endsection
