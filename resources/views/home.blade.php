@@ -62,10 +62,9 @@
     <div id="helpClientArea">
         <div class="container">
             <h1>Integrating the best minds and technology to help clients create exceptional built environments.</h1>
-            <p>Innova & MEP is a leading Bangladeshi engineering firm that specializes in full-service MEP,
-                information and communication technology, architectural lighting, vertical transportation,
-                and commissioning. With more than 500 professionals across 18 offices, we provide a full
-                range of engineering services for projects of every size and budget.</p>
+            <p>Innova & MEP is a leading Bangladeshi engineering firm that specializes in full-service MEP, 
+                EPC, Consultancy, Maintenance, commissioning also we sell products. We provide a full
+                range of engineering services for projects of every size and budget. Please check our other pages to know more.</p>
         </div>
     </div>
     <!--Help Client Area-->
@@ -151,7 +150,7 @@
                 <div class="col-md-2 overlayParent">
                     <img src="{{asset('images/EPC/EPC or Turnkey solution/Project/7. Olympic Indusries Limited/Olympic 01.jpg')}}" alt="">
                     <div class="overlay"></div>
-                    <div class="text">commissioning</div>
+                    <div class="text">Maintenance</div>
                 </div>
                 <div class="col-md-2 overlayParent">
                     <img src="{{asset('images/Maintenance/Maintenance Service/Tools We have/11.jpeg')}}" alt="">
